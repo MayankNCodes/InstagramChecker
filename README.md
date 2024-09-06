@@ -46,7 +46,7 @@ Windows/Linux:
 python IGChecker.py
 ```
 ## Fun Fact! 
-- Fun Fact: You can Enable/Disable the "Debug Mode" via accessing the source code and simply editing the value to True/False.
+- Fun Fact: You can Enable/Disable the "Debug Mode" via the source code and simply editing the value to True/False.
 
 
 
