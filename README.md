@@ -1,8 +1,7 @@
 
 # Instagram Account Existence Checker
 
-An OSINT Tool completely coded in scratch with minimum dependancies to check whether a given Username has an Account for it on Instagram or not.
-
+An OSINT Tool completely coded from scratch with minimum dependancies to check whether a given Username is vacant or has an account created for it on Instagram. It is based on the similar Algorithm I created for SocialOSINT. 
 
 ## Features
 
